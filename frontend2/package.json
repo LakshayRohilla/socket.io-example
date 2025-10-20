@@ -1,0 +1,6 @@
+Dependencies:
+react, react-dom — UI framework.
+@reduxjs/toolkit, react-redux — RTK Query and store binding.
+socket.io-client — WebSocket client.
+Dev:
+vite, @vitejs/plugin-react — Dev server/build system.

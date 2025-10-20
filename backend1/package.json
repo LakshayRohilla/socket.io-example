@@ -1,0 +1,13 @@
+"type": "module" — Enables ES module syntax (import/export).
+scripts:
+dev — Starts server with nodemon for auto-reload.
+start — Starts server in production.
+
+dependencies:
+express, cors — REST server + CORS handling.
+sequelize, pg, pg-hstore — ORM + Postgres driver and hstore support.
+socket.io — WebSocket server for realtime events.
+dotenv — Loads .env variables.
+
+devDependencies:
+nodemon — Dev hot-reload.
